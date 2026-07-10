@@ -1,0 +1,6 @@
+backend/*.o
+backend/*.d
+backend/galaxy-empire-server
+frontend/node_modules/
+frontend/dist/
+*.log

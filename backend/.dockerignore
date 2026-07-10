@@ -1,0 +1,6 @@
+*.o
+*.d
+server
+.git
+tests
+node_modules
